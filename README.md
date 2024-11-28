@@ -12,9 +12,14 @@ Me chamo Mateus e esse é meu portifólio
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mat-altz&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mat-altz&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mat-altz&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
 </a>
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mat-altz&repo=Jogo_Papel_Pedra_Tesoura&show_icons=true&theme=dark)](https://github.com/mat-altz/Jogo_Papel_Pedra_Tesoura)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mat-altz&repo=Jogo_Papel_Pedra_Tesoura&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mat-altz&repo=numeros-primos&show_icons=true&theme=dark" />
+</a>

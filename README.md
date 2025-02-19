@@ -26,3 +26,9 @@ Me chamo Mateus e esse é meu portifólio
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mat-altz&repo=formulario&show_icons=true&theme=dark" />
 </a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mat-altz&repo=cadastro-de-usuario&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mat-altz&repo=pagina-de-ecommerce&show_icons=true&theme=dark" />
+</a>

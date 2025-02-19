@@ -17,7 +17,7 @@ Me chamo Mateus e esse é meu portifólio
 
 ### Projetos
 
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/mat-altz/Jogo_Papel_Pedra_Tesoura)">
+<a href="https://github.com/mat-altz/Jogo_Papel_Pedra_Tesoura">
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mat-altz&repo=Jogo_Papel_Pedra_Tesoura&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
